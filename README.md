@@ -116,9 +116,3 @@ Future Work:
 - Conduct longitudinal analysis to track changes in billionaire trends.
 - Investigate the impact of geographic location on net worth.
 - Develop predictive models to forecast billionaire growth.
-
-Appendix
-
-- Data sources
-- Methodology details
-- Additional visualizations
